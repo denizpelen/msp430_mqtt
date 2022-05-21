@@ -1,6 +1,6 @@
 /*
 
-created BY DENÝZ PELEN
+created BY deniz pelen
 
 */
 #include <msp430.h> 
@@ -11,8 +11,7 @@ created BY DENÝZ PELEN
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <knn.h>
-#include <data.h>
+
 /**
  * main.c
  */
